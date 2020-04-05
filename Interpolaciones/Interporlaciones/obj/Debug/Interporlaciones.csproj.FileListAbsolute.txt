@@ -1,0 +1,54 @@
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.Cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\bin\Debug\Interporlaciones.exe
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\bin\Debug\Interporlaciones.pdb
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.csproj.CoreCompileInputs.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.exe
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.pdb
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Interpolaciones.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Inicio.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Lagrange_primer_Grado.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.Lagrange_segundo_Grado.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones-master\Interporlaciones\obj\Debug\Interporlaciones.csprojAssemblyReference.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\bin\Debug\Interporlaciones.exe
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\bin\Debug\Interporlaciones.pdb
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.csprojAssemblyReference.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Interpolaciones.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Inicio.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange_primer_Grado.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange_segundo_Grado.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.CoreCompileInputs.cache
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.exe
+D:\Users\osval\Documentos\metodos numericos\Interpolaciones\Interporlaciones\obj\Debug\Interporlaciones.pdb
